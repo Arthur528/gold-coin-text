@@ -12,20 +12,17 @@
 
 ## Description
 
-    PWA that allows you to switch between online and offline modes and still works,
-    also allows you to download app to desktop from web browser (install button).
+PWA that allows you to switch between online and offline modes and still works,
+also allows you to download app to desktop from web browser (install button).
 
 ## User Story
 
-```md
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
-```
 
 ## Acceptance Criteria
 
-```md
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
